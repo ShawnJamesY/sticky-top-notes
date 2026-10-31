@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/sticky-top-notes',
+  id: '@shawnjamesy/dsh-sticky-top-notes',
   factory(require) {
     const React = require('react');
     const h = React.createElement;

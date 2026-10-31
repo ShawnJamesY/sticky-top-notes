@@ -19,7 +19,7 @@ English | [简体中文](README.zh.md)
 
 ```
 install_bundle  target=/absolute/path/to/this/package    # local directory
-install_bundle  target=<git-url>#sticky-top-notes/plugin # git source
+install_bundle  target=<git-url>#plugin # git source
 ```
 
 Restart DSH, then refresh the Web GUI.
@@ -62,7 +62,7 @@ plugin/
 ## Uninstall
 
 ```
-remove_bundle  target=@local/sticky-top-notes
+remove_bundle  target=@shawnjamesy/dsh-sticky-top-notes
 ```
 
 ## License

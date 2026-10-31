@@ -19,7 +19,7 @@
 
 ```
 install_bundle  target=/absolute/path/to/this/package    # 本地目录
-install_bundle  target=<git地址>#sticky-top-notes/plugin # git 源
+install_bundle  target=<git地址>#plugin # git 源
 ```
 
 安装后重启 DSH 并刷新 Web GUI。
@@ -62,7 +62,7 @@ plugin/
 ## 卸载
 
 ```
-remove_bundle  target=@local/sticky-top-notes
+remove_bundle  target=@shawnjamesy/dsh-sticky-top-notes
 ```
 
 ## License
