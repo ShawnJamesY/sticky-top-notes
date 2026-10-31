@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sticky Notes Top Bar",
+    "description": "A fixed 20px sticky-note strip at the top of the main chat panel: active notes in a vivid color, check to complete (grays out and records the completion time), with quick entry and an all-notes panel (created/completed timestamps). Human-facing only — never enters the model context."
+  }
+}

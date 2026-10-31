@@ -1,0 +1,3 @@
+- insert:
+    - id: sticky-top-notes
+      name: '@local/sticky-top-notes'
